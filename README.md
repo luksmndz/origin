@@ -1,1 +1,1 @@
-# Curso Git
+# Curso Digital: Git
